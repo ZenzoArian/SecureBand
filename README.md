@@ -11,4 +11,4 @@ SecureBand Beveiliging: [SecureBand-Beveiliging]
 
 [SecureBand]: <SecureBand -Zenzo.pdf>
 [SecureBand-Analyse]: <SecureBand-AnalyseFase-Zenzo.pdf>
-[SecureBand-Beveiliging]: <beveiliging.pdf>
+[SecureBand-Beveiliging]: <Beveiliging.pdf>
